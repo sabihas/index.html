@@ -1,0 +1,49 @@
+
+header{
+             
+      margin-top: 0px;
+      text-align: left;
+      height: 550px; width: 1540px;
+      background: url('http://cdn.olwomen.com/wp-content/uploads/2015/06/Lace-Halter-White-Prom-Dress.jpg');
+      background-size: cover;
+      color: #404;
+      text-decoration: underline;
+        }
+    ul{
+      padding: 8px;
+      background: rgba(0, 0, 0, 0.5);
+      text-align: center;
+      margin: 460px 0px 0px 0px;
+        }
+    a{
+      	color: white;
+      	display:inline-block;
+        padding:10px;
+        }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+      text-align: center;
+        }
+    body{
+      background-color: pink;
+    }
+   h1{
+     font-size: 80px;
+     font-family: Georgia, serif;
+
+        }
+   
+    p{
+    	font-size: 90px;
+    	font-family: Georgia, serif;
+    	padding-bottom: 5px;
+    	font-weight: bold;
+    	 }
+    img{
+    	height: 700px; width: 500px;
+    	border: 10px solid black;
+         }
+    footer{
+    	font-size: 40px;
+         }
